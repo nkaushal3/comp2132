@@ -1,0 +1,18 @@
+[
+    {
+        "word": "database",
+        "hint": "An structured collection of information."
+    },
+    {
+        "word": "normalization",
+        "hint": "3NF is an example of this."
+    },
+    {
+        "word": "query",
+        "hint": "A request to retrieve or manipulate data in a database."
+    },
+    {
+        "word": "primary key",
+        "hint": "A unique identifier for each record in a table."
+    }
+]
